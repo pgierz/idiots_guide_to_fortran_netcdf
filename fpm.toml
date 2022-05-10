@@ -1,9 +1,9 @@
-name = "examples"
+name = "NetCDF Examples for Humans"
 version = "0.1.0"
-license = "license"
-author = "Jane Doe"
-maintainer = "jane.doe@example.com"
-copyright = "Copyright 2022, Jane Doe"
+license = "GPL v3"
+author = "Paul Gierz"
+maintainer = "paul.gierz@awi.de"
+copyright = "Copyright 2022, Paul Gierz"
 [build]
 auto-executables = true
 auto-tests = true
