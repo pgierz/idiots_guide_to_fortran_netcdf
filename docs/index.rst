@@ -9,6 +9,8 @@ Welcome to NetCDF-FORTRAN Examples's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   examples
 
 
 
